@@ -17,6 +17,8 @@ tamanho zero, um número par) para a versão ı́mpar do vértice N.
 
 Figure 1: Exemplo de grafo G', obtido a partir de G
 
+![figure](https://github.com/icps/odd_dijkstra/blob/main/PAA%20TP1.png)
+
 # Análise de Complexidade
 
 Para a leitura da entrada de tamanho E, precisa-se ler toda a entrada, logo, temos um custo O(E). A adição
